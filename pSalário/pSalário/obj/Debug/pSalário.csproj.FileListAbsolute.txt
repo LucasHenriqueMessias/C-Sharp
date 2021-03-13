@@ -1,0 +1,10 @@
+C:\Users\lhmg2\source\repos\pSalário\pSalário\bin\Debug\pSalário.exe.config
+C:\Users\lhmg2\source\repos\pSalário\pSalário\bin\Debug\pSalário.exe
+C:\Users\lhmg2\source\repos\pSalário\pSalário\bin\Debug\pSalário.pdb
+C:\Users\lhmg2\source\repos\pSalário\pSalário\obj\Debug\pSalário.csprojAssemblyReference.cache
+C:\Users\lhmg2\source\repos\pSalário\pSalário\obj\Debug\pSalário.Form1.resources
+C:\Users\lhmg2\source\repos\pSalário\pSalário\obj\Debug\pSalário.Properties.Resources.resources
+C:\Users\lhmg2\source\repos\pSalário\pSalário\obj\Debug\pSalário.csproj.GenerateResource.cache
+C:\Users\lhmg2\source\repos\pSalário\pSalário\obj\Debug\pSalário.csproj.CoreCompileInputs.cache
+C:\Users\lhmg2\source\repos\pSalário\pSalário\obj\Debug\pSalário.exe
+C:\Users\lhmg2\source\repos\pSalário\pSalário\obj\Debug\pSalário.pdb
