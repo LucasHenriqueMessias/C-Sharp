@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\PMat0030482021016\PMat0030482021016\bin\Debug\PMat0030482021016.exe.config
+C:\Users\lucas\source\repos\PMat0030482021016\PMat0030482021016\bin\Debug\PMat0030482021016.exe
+C:\Users\lucas\source\repos\PMat0030482021016\PMat0030482021016\bin\Debug\PMat0030482021016.pdb
+C:\Users\lucas\source\repos\PMat0030482021016\PMat0030482021016\obj\Debug\PMat0030482021016.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\PMat0030482021016\PMat0030482021016\obj\Debug\PMat0030482021016.Properties.Resources.resources
+C:\Users\lucas\source\repos\PMat0030482021016\PMat0030482021016\obj\Debug\PMat0030482021016.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\PMat0030482021016\PMat0030482021016\obj\Debug\PMat0030482021016.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\PMat0030482021016\PMat0030482021016\obj\Debug\PMat0030482021016.exe
+C:\Users\lucas\source\repos\PMat0030482021016\PMat0030482021016\obj\Debug\PMat0030482021016.pdb
+C:\Users\lucas\source\repos\PMat0030482021016\PMat0030482021016\obj\Debug\PMat0030482021016.frmValores.resources
